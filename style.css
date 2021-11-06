@@ -1,0 +1,13 @@
+p {
+    border-style: solid 1px;
+}
+p a {
+    text-decoration: none;
+    color: gray ;
+}
+p a:hover {
+    color: gray;
+}
+.yorum {
+    color: gray;
+}
